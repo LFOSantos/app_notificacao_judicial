@@ -1,0 +1,97 @@
+body {
+  background: #0f0e0e;
+  color: rgb(13, 13, 13);
+}
+
+.button-link {
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background 0.2s, color 0.2s;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.button-link:hover {
+  background: #a259f7;
+  color: white;
+}
+
+.small-back-btn {
+  padding: 6px 8px;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  background: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+  width: auto;
+  min-width: unset;
+  max-width: 200px;
+}
+
+.small-back-btn:hover {
+  background: #22c55e;
+  color: white;
+}
+
+.small-save-btn {
+  padding: 6px 8px;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  background: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+  width: auto;
+  min-width: unset;
+  max-width: 200px;
+}
+
+.small-save-btn:hover {
+  background: #22c55e;
+  color: white;
+}
+
+.small-need-btn {
+  padding: 6px 8px;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  background: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+  width: auto;
+  min-width: unset;
+  max-width: 200px;
+}
+
+.small-need-btn:hover {
+  background: #22c55e;
+  color: white;
+}
+
+.small-check-btn {
+  padding: 6px 8px;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  background: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s;
+  width: auto;
+  min-width: unset;
+  max-width: 200px;
+}
+
+.small-check-btn:hover {
+  background: #22c55e;
+  color: white;
+}
