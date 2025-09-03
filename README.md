@@ -44,6 +44,6 @@ O frontend espera o backend em `http://localhost:3000`.
 ## Observações
 
 - Certifique-se de que a API backend está rodando, se necessário.
-- Para dúvidas ou problemas, consulte os arquivos de código ou abra uma issue.
+
 
 
