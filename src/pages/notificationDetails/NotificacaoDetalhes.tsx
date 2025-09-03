@@ -14,8 +14,8 @@ export default function NotificacaoCard({
         <Link to={`/notificacao/${id}`}>{titulo}</Link>
       </h2>
       <p className="mt-2 text-sm">{descricao}</p>
-      <p className="mt-1 text-sm">📅 {dataAudiencia}</p>
-      <p className="mt-1 text-sm">👤 {notificado || "-"}</p>
+      <p className="mt-1 text-sm">{dataAudiencia}</p>
+      <p className="mt-1 text-sm">{notificado || "-"}</p>
       <span
         className={`mt-2 inline-block px-3 py-1 rounded-full text-xs font-semibold ${
           status === "EM_ANDAMENTO"

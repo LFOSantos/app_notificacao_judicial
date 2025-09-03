@@ -85,7 +85,7 @@ export function NotificationDetails(){
       )}
 
     <div style={{display:'grid', gap:16}}>
-      {/* ...existing code... */}
+      {}
       <button
         type="button"
         className="small-back-btn"
